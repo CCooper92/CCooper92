@@ -4,8 +4,18 @@
 
 
 - 🔭 I’m currently working on new projects to showcase my skills
-- 🌱 I’m currently learning Ant-D and Ruby On the Rails
+- 🌱 I’m currently learning Ant-D and Ruby On Rails
 - 📫 How to reach me: am10ac17@gmail.com
 - ⚡ Fun fact: I hoard plants <img src="https://img.icons8.com/office/16/000000/potted-plant.png"/>
+
+<img src="https://img.icons8.com/color/64/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html.png"/>
+<img src="https://img.icons8.com/color/48/000000/css-filetype.png"/>
+<img src="https://img.icons8.com/bubbles/50/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/redux.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/cute-clipart/64/000000/github.png"/>
+<img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CCooper92&theme=nightowl&show_icons=true)
