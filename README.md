@@ -1,5 +1,5 @@
 ### Hi there 👋
- I am a Full-Stack Web Developer. I attended Lambda School and have gained experience in JavaScript, HTML, CSS, React, Redux, styled-components, LESS, SASS, PostgreSQL, node, and Postman. I have gained many other skills from Lambda that go beyond coding, such as working in a team, working remotely, and handling multiple tasks at once. Im excited to keep building off of what I no and gaining new skills as I go to further my knowledge in the tech world!
+ I am a Full-Stack Web Developer. I attended Lambda School and have gained experience in JavaScript, HTML, CSS, React, Redux, styled-components, LESS, SASS, PostgreSQL, node, and Postman. I have gained many other skills from Lambda that go beyond coding, such as working in a team, working remotely, and handling multiple tasks at once. Im excited to keep building off of what I know and gaining new skills as I go to further my knowledge in the tech world!
 
 
 
